@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Philippines-🇵🇭-059669?style=for-the-badge&labelColor=1a1b27" alt="Location" />
-<img src="https://img.shields.io/badge/BS%20Information%20Technology-Graduate-059669?style=for-the-badge&labelColor=1a1b27" alt="Education" />
+<img src="https://img.shields.io/badge/BS%20Information%20Technology-3rd%20Year%20Student-059669?style=for-the-badge&labelColor=1a1b27" alt="Education" />
 <img src="https://komarev.com/ghpvc/?username=krystuffcodes&style=for-the-badge&color=059669&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I'm a **Junior Full Stack Software Developer** from the Philippines with a Bachelor's degree in Information Technology. I enjoy building modern web and mobile applications that solve real-world problems — from designing databases and REST APIs to crafting intuitive user experiences on the frontend.
+I'm a **Junior Full Stack Software Developer** from the Philippines, currently a 3rd year BS Information Technology student. I enjoy building modern web and mobile applications that solve real-world problems — from designing databases and REST APIs to crafting intuitive user experiences on the frontend.
 
 I care about writing **clean, maintainable code** and building software that people actually enjoy using. Backend development and application security are areas I find especially interesting, and I'm always exploring new technologies to sharpen my craft.
 
